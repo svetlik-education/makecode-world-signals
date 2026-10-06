@@ -1,0 +1,13 @@
+{
+    "name": "makecode-world-signals",
+    "displayName": "World Signals",
+    "version": "0.1.0",
+    "description": "Pilot: detect placed lever/button signals through connected redstone lamps, independently of the selected inventory item.",
+    "license": "MIT",
+    "dependencies": { "core": "*" },
+    "files": ["main.ts", "README.md"],
+    "testFiles": ["test.ts"],
+    "supportedTargets": ["minecraft"],
+    "preferredEditor": "tsprj",
+    "public": true
+}
